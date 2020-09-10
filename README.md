@@ -2,4 +2,4 @@
 
 A game about Space & Rockets.
 
-(/images/Rocket.png)
+![SpaceShipt](/images/Rocket.png)
