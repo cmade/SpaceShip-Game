@@ -2,4 +2,4 @@
 
 A game about Space & Rockets.
 
-[/images/Rocket.png]
+(/images/Rocket.png)
